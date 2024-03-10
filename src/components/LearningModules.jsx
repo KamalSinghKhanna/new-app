@@ -1,7 +1,7 @@
 
 const LearningModules = () => {
   return (
-    <div className="flex flex-col pt-20 gap-24 px-2 sm:px-24">
+    <div className="flex flex-col pt-56 sm:pt-20 gap-24 px-2 sm:px-24">
       <div className="flex flex-col  lg:px-32 xl:px-44 gap-6">
         <span className="text-3xl sm:text-4xl font-medium text-center px-6 sm:px-12">
           We provide various kind of learning modules for you

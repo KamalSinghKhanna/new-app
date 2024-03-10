@@ -50,7 +50,7 @@ const WhyUs = () => {
           Learning Experience That Empowers You To Achieve Your Goals. Join Us
           Today And Embark On A Journey Of Discovery, Growth, And Success.
         </p>
-        <div className="flex flex-wrap justify-evenly pt-6 gap-10">
+        <div className="flex flex-wrap sm:justify-evenly pt-6 gap-10">
           <div className="flex items-center">
             <img
               src="./assets/assignment.svg"

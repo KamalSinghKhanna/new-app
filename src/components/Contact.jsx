@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <div className="bg-[#333697] flex flex-col sm:flex-row items-center gap-4 mt-24 px-3 sm:px-6 lg:px-10 py-9 mx-5 sm:mx-10 md:mx-20 lg:mx-40 xl:mx-64 rounded-lg">
+    <div className="bg-[#333697] flex flex-col sm:flex-row items-center gap-4 mt-24 px-3 sm:px-6 lg:px-10 py-9 mx-5 sm:mx-10 md:mx-20 lg:mx-40 xl:mx-64 rounded-2xl">
       <div className="flex flex-col items-center sm:items-start gap-4">
         <span className="text-white text-3xl">Contact Us!</span>
         <p className="text-white text-base text-center sm:text-left font-normal">

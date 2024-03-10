@@ -4,7 +4,7 @@ import Navbar from "./Navbar"
 const Home = () => {
   return (
     <div
-      className="h-screen relative w-full px-2 lg:px-10 xl:px-32 pt-10 pb-36"
+      className="h-screen relative w-full px-2 lg:px-10 xl:px-32 pt-3 sm:pt-10 pb-36"
       style={{
         background: "url(./assets/bg.png)",
         backgroundSize: "cover",
