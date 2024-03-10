@@ -59,7 +59,7 @@ const Navbar = () => {
           onClick={toggleMenu}
         />
         {showMobile && (
-          <ul className="flex flex-col items-center gap-9 absolute w-1/2 right-0 top-20 bg-white py-6 rounded-lg">
+          <ul className="flex flex-col items-center gap-9 absolute w-3/4 sm:w-1/2 right-0 top-20 bg-white py-6 rounded-lg">
             <li className="text-[#474646] text-lg cursor-pointer hover:text-[#FFEC05]">
               <a
                 href="#"

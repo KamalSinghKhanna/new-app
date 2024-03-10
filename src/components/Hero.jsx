@@ -11,7 +11,7 @@ const Hero = () => {
           Job-Ready Certificate Programs— All Included In Your Subscription
         </p>
         <div className="flex items-center gap-6 pt-5">
-          <button className="bg-[#FFEC05] px-8 py-3.5 rounded-3xl flex items-center justify-center">
+          <button className="bg-[#FFEC05] px-3 sm:px-8 py-2.5 sm:py-3.5 rounded-3xl flex items-center justify-center">
             Book Demo Class
           </button>
           <button className="flex items-center gap-4">
