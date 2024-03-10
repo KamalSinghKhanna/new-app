@@ -18,7 +18,7 @@ const Feedback = () => {
         </button>
       </div>
 
-      <div className="flex flex-col items-center sm:flex-row gap-10 md:gap-40 bg-[#EFEFFE] mt-10 pb-5 sm:pb-0 sm:mt-2">
+      <div className="flex flex-col items-center sm:flex-row gap-10 md:gap-40 bg-[#EFEFFE] mt-10 pb-5 sm:pb-0 sm:mt-2 pt-6 sm:pt-0">
         <img src="./assets/student.png" alt="student" className="w-72 h-80" />
         <div className="flex flex-col gap-1 items-center sm:items-start justify-center xl:pr-44">
           <div className="flex items-center gap-4 mb-4">
