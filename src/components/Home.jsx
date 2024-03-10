@@ -9,6 +9,7 @@ const Home = () => {
         background: "url(./assets/bg.png)",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
+        backgroundPosition:"center"
       }}
     >
       <div className="absolute top-0 left-0 w-full h-full bg-[#262BDB] bg-opacity-50"></div>
